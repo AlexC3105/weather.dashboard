@@ -1,0 +1,15 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifg;
+}
+.container-fluid, .content-row {
+    height: auto;
+}
+.card {
+    background-color: aqua;
+}
+.city-btn:hover {
+    background-color: green;
+}
+#current-city {
+    background-color: aqua;
+}
